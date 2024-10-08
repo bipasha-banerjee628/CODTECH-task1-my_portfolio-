@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.glow-effect {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 0 20px rgba(52, 152, 219, 0.7), 0 0 30px rgba(52, 152, 219, 0.5);
+  }
+  
+  /* Hover glow effect */
+  .glow-effect:hover {
+    box-shadow: 0 0 20px rgba(52, 152, 219, 0.7), 0 0 30px rgba(52, 152, 219, 0.5);
+    transform: scale(1.05); /* Slight zoom on hover */
+  }
+header{
+    position: sticky;
+    top: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color:rgb(10, 10, 10);
+  
+}
+
+
+
+nav .left{
+    font-size: 2rem;
+    transition: all 0.2s ease-in-out;
+    color:  rgb(34, 169, 242);;
+}
+nav .left:hover{
+    transform: scale(1.2);
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+    font-size: 1.4rem;
+    padding: 5px;
+   
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-in-out;
+}
+
+
+
+#firstSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 180px 0;
+
+}
+
+#firstSection > div{
+    width: 30%;
+}
+
+#firstSection .left{
+   
+    font-size: 3rem;
+
+
+}
+.mypic{
+    height: 500px;
+    width: 470px;
+    border-radius: 50%;
+}
+
+
+.purple{
+    color:  rgb(34, 169, 242);
+   
+}
+.textgray{
+    color: rgb(160, 152, 152);
+}
+
+#element{
+    color: rgb(34, 169, 242);
+}
+main hr{
+    border: 0;
+    background-color: #9c97f1;
+    height: 1.2px;
+    margin: 40px 84px;
+}
+.projects{
+    color:  rgb(34, 169, 242);;
+}
+.aboutme{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 200px;
+    color:  rgb(34, 169, 242);;
+}
+.about_gray{
+    color: gray;
+    margin-left: 200px;
+
+}
+#secondSection{
+    height: 30vw;
+    display: flex;
+}
+#secondSection .left{
+    width: 50%;
+}
+
+#secondSection .left img{
+    height: 500px;
+    border-radius: 50%;
+  margin: 100px 200px;
+}
+#secondSection .right{
+    width: 50%;
+}
+#secondSection .right_para{
+    font-size: 1.4rem;
+   width: 700px;
+ 
+ margin: 100px;
+    text-align: left;
+}
+#projectsection{
+    max-width: 80vw;
+    margin: auto;
+    height: 50vh;
+ 
+
+}
+.pro{
+    max-width: 80vw;
+    margin: auto;
+    height: 30vh;
+    display: flex;
+    margin-left: 300px;
+}
+
+
+#projectsection h1{
+    font-size: 2.5rem;
+}
+.one, .two, .three{
+    height: 400px;
+    width: 300px;
+    background-color: rgba(255,255,255,.1);
+    margin-left: 70px;
+    border-radius: 20px;
+    color: white;
+    }
+    
+    .headingone, .headingtwo, .headingthree{
+        font-weight: bold;
+        text-align: center;
+        text-decoration: underline;
+        color: #3498db;
+    }
+    .descone{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+/* #thirdSection .box{
+    background-color: white;
+    width: 80vw;
+    height: 2px;
+    margin:56px 0 ;
+    display: flex;
+}
+#thirdSection .vertical{
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 300px;
+   
+}
+.image-top{
+    width: 30px;
+    position: relative;
+    top: -37px;
+    left: -14px;
+}
+.vertical-title{
+    position: relative;
+    top: 73px;
+    width: 150px;
+    font-size: 1.2rem;
+    text-align: center;
+    left: -70px;
+}
+.vertical-desc{
+    position: relative;
+ left: -230px;
+    top: 87px;
+    color: grey;
+    width: 500px;
+    font-size: 0.9rem;
+
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+#skills{
+    max-width: 80vw;
+    margin: auto;
+    height: 70vw;
+
+ 
+}
+
+#skills .sheading{
+    font-size: 35px;
+    color:  rgb(34, 169, 242);;
+}
+
+.subheading{
+    margin: 50px;
+}
+
+.logos_of_fe img{
+    height: 200px;
+   transition: all .2s ease-in-out;
+}
+.logos_of_fe img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.logos_of_fe {
+display: flex;
+justify-content: space-around;
+background-color: rgba(255,255,255,0.1);
+border-radius: 40px;
+height: 25vh;
+align-items: center;
+margin-left:180px ;
+transition: all .2s ease-in-out;
+
+}
+
+
+
+footer{
+    background-color: rgb(18, 18, 18);
+    height: 25vh;
+    width: auto;
+    
+}
+
+footer .contact{
+    color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+#contactme .social{
+    display: flex;
+ 
+
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+}
+
+#contactme .social .contact{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+
+    border-radius: 50%;
+    border: 4px solid white;
+    transition: all 0.2s ease-in-out;
+}
+
+#contactme .social .contact:hover{
+    transform: scale(1.5);
+
+}
+
+footer p{
+    font-size: 1.2rem;
+    
+}
