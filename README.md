@@ -39,10 +39,11 @@ Here are some screenshots of my portfolio:
 ![Screenshot 2024-10-10 185659](https://github.com/user-attachments/assets/a33c66fe-8bb1-4ccf-a815-6d7bfc5c003d)
 
 <h3>ABOUT</h3>
-![Screenshot 2024-10-10 185731](https://github.com/user-attachments/assets/466859ae-18e1-47c1-8177-1cb3bb9f6cbe)
+![Screenshot 2024-10-10 185731](https://github.com/user-attachments/assets/7596ebca-ae74-44d6-9f03-b6880c55ab0b)
 
 <h3>CONTACT</h3> 
 ![Screenshot 2024-10-10 185757](https://github.com/user-attachments/assets/a34de725-8e60-446f-8a4c-e3a803f73dca)
+
 
 
 
