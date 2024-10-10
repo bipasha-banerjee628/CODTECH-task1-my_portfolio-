@@ -21,9 +21,8 @@ Screenshots
 Here are some screenshots of my portfolio:
 
 
+![Screenshot 2024-10-10 185508](https://github.com/user-attachments/assets/5a2f423d-ec02-4eaa-bb42-496bdb8f63af)
 
 
-How to View
-You can view the live site here: [Insert Portfolio Link]
 
-Feel free to explore, provide feedback, or contact me!
+
