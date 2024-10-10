@@ -29,7 +29,7 @@ Contact Me: Information on how to get in touch via email and social media.
 Here are some screenshots of my portfolio:
 
 <h3>HOME</h3>
-![Screenshot 2024-10-10 185508](https://github.com/user-attachments/assets/5a2f423d-ec02-4eaa-bb42-496bdb8f63af)
+![Screenshot 2024-10-10 185508](https://github.com/user-attachments/assets/a9652a62-a9af-489b-81b3-b3ab87dbf7e1)
 
 <h3>ABOUT</h3>
 ![Screenshot 2024-10-10 185605](https://github.com/user-attachments/assets/90a95e4f-cd19-447a-a5b1-09ea6f4a1ebe)
