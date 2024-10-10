@@ -1,11 +1,10 @@
 # Portfolio Website
-
-<h3>Name:</h3> BIPASHA BANERJEE
-<h3>Company:</h3>CODTECH IT SOLUTIONS
-<h3>ID:</h3>CT06DS1776
-<h3>Domain:</h3>Frontend Development
-<h3>Duration:</h3>AUGUST 30th, 2024 to OCTOBER 15th, 2024.
-<h3>Mentor:</h3>Neela Santhosh Kumar
+Name:Bipasha Banerjee
+Company: CODTECH IT COMPANY
+ID: CT06DS1776
+Domain: Frontend Development
+Duration: AUGUST 30th, 2024 to OCTOBER 15th, 2024.
+Mentor:Neela Santhosh Kumar
 
 <h1>Overview of the Project</h1>
 This is my personal portfolio website, showcasing my skills and projects as a web developer. The site is built using HTML, CSS (Flexbox), and JavaScript.
